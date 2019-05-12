@@ -30,14 +30,4 @@
 	   </fecha_nacimiento>
 	   <telefono>631147895</telefono>
 	</usuario>
-	<usuario>
-	   <nombre>Leire</nombre>
-	   <apellidos>Nuñez Vals</apellidos>
-	   <fecha_nacimiento>
-	      <dia>18</dia>
-	      <mes>6</mes>
-	      <año>1979</año>
-	   </fecha_nacimiento>
-	   <telefono>652147895</telefono>
-	</usuario>
 </usuarios>
